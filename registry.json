@@ -13,7 +13,7 @@
         "params": []
     },
     {
-        "id": "com.atlas.spotify_view",
+        "id": "com.atlas.spotify_tab",
         "name": "Spotify Tab",
         "description": "Una vista dedicada para controlar Spotify",
         "version": "1.0.0",
