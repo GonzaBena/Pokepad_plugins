@@ -1,0 +1,28 @@
+[
+    {
+        "id": "com.atlas.hello_plugin",
+        "name": "Greeting plugin",
+        "description": "Un plugin de ejemplo, el mismo dice hola a traves de la consola",
+        "version": "1.0.0",
+        "author": "Atlas",
+        "icon": "👋",
+        "downloadUrl": "https://raw.githubusercontent.com/GonzaBena/Pokepad_plugins/main/plugins/hello-plugin.zip",
+        "isVerified": true,
+        "downloads": 150,
+        "updatedAt": "2024-05-13T10:00:00Z",
+        "params": []
+    },
+    {
+        "id": "com.atlas.spotify_view",
+        "name": "Spotify Tab",
+        "description": "Una vista dedicada para controlar Spotify",
+        "version": "1.0.0",
+        "author": "Atlas",
+        "icon": "🎵",
+        "downloadUrl": "https://raw.githubusercontent.com/GonzaBena/Pokepad_plugins/main/plugins/spotify-view.zip",
+        "isVerified": true,
+        "downloads": 150,
+        "updatedAt": "2024-05-13T10:00:00Z",
+        "params": []
+    }
+]
