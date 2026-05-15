@@ -24,5 +24,18 @@
         "downloads": 150,
         "updatedAt": "2026-05-13T10:00:00Z",
         "params": []
+    },
+    {
+        "id": "com.atlas.sp1ng",
+        "name": "SP1NG",
+        "description": "Juego de física orbital con un solo botón. Orbitá alrededor de nodos y lanzate al siguiente para llegar a la meta.",
+        "version": "0.1.0",
+        "author": "Atlas",
+        "icon": "🌀",
+        "downloadUrl": "https://raw.githubusercontent.com/GonzaBena/Pokepad_plugins/master/plugins/Sp1ng.zip",
+        "isVerified": true,
+        "downloads": 150,
+        "updatedAt": "2026-05-13T10:00:00Z",
+        "params": []
     }
 ]
